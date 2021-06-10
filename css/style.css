@@ -1,0 +1,245 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-size: 1,2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    background: #2c2a2a;
+    
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+a{
+    color: white;
+}
+#t1-principal{
+    
+    font-family: arial, sans-serif;
+    font-size: 30px;
+    color: white;
+    padding: 2px;
+}   
+nav{
+    display: flex;
+    align-items: center;
+}
+.menu{
+    display: flex;
+}
+.menu li{
+    padding-left: 10px;
+    list-style: none;
+}
+.menu li a{
+    display: block;
+    padding: 10px;
+    font-family: arial, serif;;
+    font-size: 20px;
+    
+    
+}
+.flex-cores{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.flex-cores > div{
+    flex: 1 1 200px;
+    margin: 10px;
+}
+#titulo-corpo{
+    text-align: center;
+    margin-top: 100px;
+    color: Black;
+    font-family: arial, sans-serif;
+    font-size: 50px;
+}
+#titulo-font{
+    text-align: center;
+    margin-top: 100px;
+    color: black;
+    font-family: arial, sans-serif;
+    font-size: 50px;
+
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+.flex-Fonts{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+    flex: 1 1 200px;
+}
+h2, h3{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(31, 28, 28);
+    padding: 10px;
+    margin: 10px;
+    font-style:italic ;
+}
+.flex-Fonts > div{
+    flex: 1 1 200px;
+    margin: 10px;
+    padding: 10px;
+}
+.rodape > div{
+    clear: both;
+    display: flex;
+    background: #808080;
+    width: 100%;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+.rodape a{
+    color: black;
+    font-family: arial, sans-serif;
+    font-size: 30px;
+    padding: 6px;
+    margin: 10px;
+}
+
+.font-roboto p{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.font-roboto h3{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+.odibee-sans p{
+    font-family: 'Odibee Sans', cursive;
+    font-size: 20px;
+}
+.odibee-sans h3{
+    font-family: 'Odibee Sans', cursive;
+    font-size: 30px;
+}
+.lime-Light p{
+    font-size: 20px;
+    font-family: 'Limelight', cursive;
+}
+.lime-Light h3{
+    font-size: 30px;
+    font-family: 'Limelight', cursive;
+}
+.open-Sans p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.open-Sans h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.noto-Sans-Jp p{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 20px;
+    
+}
+.noto-Sans-Jp h3{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 30px;
+}
+.lato p{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-size: italic;
+}
+
+.lato h3{
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+	font-weight: bold;
+    
+}
+.tipos-flex h2{
+    font-family: arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.tipos-font{
+    
+    color: black;
+    font-family: arial, sans-serif;
+    font-size: 30px;
+    padding: 6px;
+    margin: 10px;
+}
+.estilo-de-fonts{
+    
+    
+    color: black;
+    font-family: arial, sans-serif;
+    font-size: 30px;
+    padding: 6px;
+    margin: 10px;
+    text-align: center;
+}
+.titulo-primario{
+    
+    color: blue;
+    font-family: arial, sans-serif;
+    font-size: 30px;
+    padding: 6px;
+    margin: 10px;
+    text-align: center;
+}
+.tag-img img{
+    width: 1250px;
+    height: 400px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+
+}
+#p1{
+    font-size: 25px;
+}
+.lista-titulos{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.lista-titulos ul li{
+    margin-left: 500px;
+    margin-right: auto;
+    text-align:justify ;
+    padding-left: 20px;
+    
+    
+    
+}
+p{
+    font-size: 25px;
+    
+}
+
+   
+
+
+
